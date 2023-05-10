@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and Machine Learning**
 
-- 👯 I’m looking to collaborate on Data driven wind farm energy output models and Wind farm computational fluid dynamics(To be added...)
+- 👯 I’m looking to collaborate on Data driven wind farm energy output models and Wind farm computational fluid dynamics (To be added...)
 
 - 💬 Ask me about **Python, Evolutionary Algorithms, Computational Fluid Dynamics**
 
